@@ -1,9 +1,4 @@
-﻿Perfecto. Empezaré desarrollando el proyecto completo del Examen Tipo 1 a partir del repositorio base que me has proporcionado, y también elaboraré un informe-guía pedagógico paso a paso para ayudarte a resolver futuros exámenes de PMDM con seguridad y estrategia.
-
-Te avisaré cuando tenga todo listo para tu revisión.
-
-
-# Proyecto ExamenTipo1 – Desarrollo Completo 📱
+﻿# Proyecto ExamenTipo1 – Desarrollo Completo 📱
 
 ## Descripción del Proyecto y Requisitos 📝
 
